@@ -1,4 +1,4 @@
-# VoiceSummaryGenerator
+# VoiceSummaryGeneratorGemini
 
 1. Open Streamlit
 2. Deploy Model from Github
